@@ -1,0 +1,18 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "description": "Bower example application",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "angular": "~1.4.0"
+  }
+}
